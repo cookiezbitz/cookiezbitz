@@ -3,6 +3,7 @@
 - Loves hiking, woodworking, and making things move
 - Based in Irvine, CA; lives in Taipei, Taiwan 🧋
 - Captain of VEX Team 4253S 🤖 and Class of 2026 VP
+- Avid 3d Printing enthusiast
 - See my current/past projects on my website, [Remiel.tw](https://remiel.tw/)
 
 
