@@ -1,6 +1,6 @@
 # Hi!!!! I'm Remiel 😋
 - Student @ Taipei American School 🏫
-- Enjoys woodworking, hiking, and making things move
+- Loves hiking, woodworking, and making things move
 - Based in Irvine, CA; lives in Taipei, Taiwan 🧋
 - Captain of VEX Team 4253S 🤖 and Class of 2026 VP
 - See my current/past projects on my website, [Remiel.tw](https://remiel.tw/)
