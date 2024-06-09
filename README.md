@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student @ Taipei American School 🏫<br>Enjoys woodworking, hiking, and making things move<br>Based in Irvine, CA; lives in Taipei, Taiwan 🧋<br>Captain of VEX Team 4253S and Class of 2026 VP<br>See my current/past projects on my website, Remiel.tw
+Student @ Taipei American School 🏫<br>Enjoys woodworking, hiking, and making things move<br>Based in Irvine, CA; lives in Taipei, Taiwan 🧋<br>Captain of VEX Team 4253S and Class of 2026 VP<br>See my current/past projects on my website, [Remiel.tw](https://remiel.tw/)
 
 
 # 💻 Tech Stack:
